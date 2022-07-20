@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/soyjb.github.io/data-finance-website/static/css/main.d3a2e5b8.css",
-    "main.js": "/soyjb.github.io/data-finance-website/static/js/main.3bee0ecd.js",
-    "static/media/laptop.jpg": "/soyjb.github.io/data-finance-website/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "static/media/single.png": "/soyjb.github.io/data-finance-website/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/soyjb.github.io/data-finance-website/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/triple.png": "/soyjb.github.io/data-finance-website/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/soyjb.github.io/data-finance-website/index.html",
-    "main.d3a2e5b8.css.map": "/soyjb.github.io/data-finance-website/static/css/main.d3a2e5b8.css.map",
-    "main.3bee0ecd.js.map": "/soyjb.github.io/data-finance-website/static/js/main.3bee0ecd.js.map"
+    "main.css": "/data-finance-website/static/css/main.d3a2e5b8.css",
+    "main.js": "/data-finance-website/static/js/main.ded64da5.js",
+    "static/media/laptop.jpg": "/data-finance-website/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/data-finance-website/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-finance-website/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-finance-website/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/data-finance-website/index.html",
+    "main.d3a2e5b8.css.map": "/data-finance-website/static/css/main.d3a2e5b8.css.map",
+    "main.ded64da5.js.map": "/data-finance-website/static/js/main.ded64da5.js.map"
   },
   "entrypoints": [
     "static/css/main.d3a2e5b8.css",
-    "static/js/main.3bee0ecd.js"
+    "static/js/main.ded64da5.js"
   ]
 }
